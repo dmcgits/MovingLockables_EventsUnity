@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: iconsAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 1
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 2
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 1024
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: c4da516b4f06f3d46a66aeda7aeb1f05, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: fc7d65315978d1647a6ac043ff76e5b0, type: 3}
+  - {fileID: 21300000, guid: 4a5625a226e73fa48a0242d43482fbaa, type: 3}
+  - {fileID: 21300000, guid: d3c65c93ea579794f9b89b4b59b8ddf3, type: 3}
+  - {fileID: 21300000, guid: 72ea2718e2420b744baf4415b8a2c2fe, type: 3}
+  - {fileID: 21300000, guid: e5a6d51c586ff3b40b873fb3c5e7c1a7, type: 3}
+  - {fileID: 21300000, guid: e87bd38cc0c41334d815bb9d8e73a936, type: 3}
+  - {fileID: 21300000, guid: 96b0beec67389b64f9d12b8ad4a09f7f, type: 3}
+  - {fileID: 21300000, guid: a41820be3ddc53a42a48a0f4bcee44ad, type: 3}
+  - {fileID: 21300000, guid: b24c97fe0d1fbfc4b9ee773c07815479, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - cog
+  - spanner
+  - arrow_down
+  - disk
+  - arrow_up
+  - key
+  - star
+  - tick
+  - toggle
+  m_Tag: iconsAtlas
+  m_IsVariant: 0
